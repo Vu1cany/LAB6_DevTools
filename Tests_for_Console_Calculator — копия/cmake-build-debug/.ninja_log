@@ -1,0 +1,8 @@
+# ninja log v5
+2320	2372	1668896452047625865	Tests	b27ac090bb12a6a1
+5	2320	1668896451986464691	CMakeFiles/Tests.dir/Functions_Tests.cpp.o	d8c611a03b0c696a
+0	265	1668896279561338095	CMakeFiles/Tests.dir/Users/vu1cany/IT/ITMO/DevTools/LAB_5/Console_Calculator/Functions.cpp.o	20f3a7429b011317
+1	52	1668898101208969279	build.ninja	2be717cac5ff1941
+5	295	1668898101510355391	CMakeFiles/Tests.dir/Users/vu1cany/IT/ITMO/DevTools/LAB_5/Console_Calculator/Functions.cpp.o	20f3a7429b011317
+5	2376	1668898103584299628	CMakeFiles/Tests.dir/Functions_Tests.cpp.o	2ef26365bc1fe30a
+2376	2431	1668898103648110107	Tests	b27ac090bb12a6a1
