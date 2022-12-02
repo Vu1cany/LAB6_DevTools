@@ -1,0 +1,16 @@
+# ninja log v5
+4	247	1668723820532943381	CMakeFiles/Console_Calculator.dir/Test_main.cpp.o	ee611101641c0bb3
+255	307	1668895868226849525	Console_Calculator	4bf9beeedad4e14f
+5	26	1668889254902113340	CMakeFiles/Console_Calculator.dir/Test_Calculator.cpp.o	726c4a0edc94ef50
+4	496	1668723659456726962	CMakeFiles/Console_Calculator.dir/main.cpp.o	9c06f57dd54a9514
+5	2312	1668890139384165497	CMakeFiles/Console_Calculator.dir/Tests/Tests.cpp.o	5b9617061c0a7e53
+0	38	1668896527617965666	build.ninja	d2401b16eeebcdc7
+5	255	1668895868173456395	CMakeFiles/Console_Calculator.dir/Calculator.cpp.o	38626435592cfbe2
+5	2303	1668894745688758017	CMakeFiles/Console_Calculator.dir/Calculator_Tests.cpp.o	c31c3569767db902
+5	2356	1668895860276061654	CMakeFiles/Console_Calculator.dir/Functions_Tests.cpp.o	930efd34e64f9a67
+4	2287	1668894515188498843	CMakeFiles/Console_Calculator.dir/test.cpp.o	6cf4e3d61235f203
+5	336	1668895858261876217	CMakeFiles/Console_Calculator.dir/Functions.cpp.o	96d210a3c1f9b5a7
+4	265	1668896537279202920	CMakeFiles/Console_Calculator.dir/Calculator.cpp.o	38626435592cfbe2
+265	297	1668896537313210961	Console_Calculator	bb5f958f2398fca3
+4	258	1668896841526628738	CMakeFiles/Console_Calculator.dir/Calculator.cpp.o	38626435592cfbe2
+258	291	1668896841560981866	Console_Calculator	bb5f958f2398fca3
