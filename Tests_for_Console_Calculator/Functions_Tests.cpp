@@ -9,7 +9,7 @@ TEST_CASE( "Test_Sum" ) {
 }
 
 TEST_CASE( "Test_Dif" ) {
-    REQUIRE(Dif(0, 2) == -5 ); //
+    REQUIRE(Dif(0, 2) == -2 ); //
     REQUIRE(Dif(-2, 2) == -4 );
     REQUIRE(Dif(0, 0) == 0 );
 }
